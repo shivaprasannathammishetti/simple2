@@ -1,2 +1,2 @@
 hey my self shivaa
-usgoglsap
+This project manages student records efficiently.
