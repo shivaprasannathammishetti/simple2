@@ -1,2 +1,3 @@
-hey my self shivaa
-This project manages student records efficiently.
+# Student Management System
+
+This project manages student records efficiently and securely.
